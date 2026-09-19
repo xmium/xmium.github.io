@@ -749,7 +749,7 @@ body {
         monospace;
 
     font-size:
-        clamp(13px, 0.95vw, 17px);
+        clamp(15px, 1.015vw, 19px);
 
     text-align: left;
 
