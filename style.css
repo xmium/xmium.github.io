@@ -748,6 +748,9 @@ body {
     font-family:
         monospace;
 
+    font-weight:
+        bold;
+
     font-size:
         clamp(15px, 1.015vw, 19px);
 
