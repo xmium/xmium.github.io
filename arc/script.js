@@ -27,9 +27,6 @@ const LINKS = {
     github:
         "https://github.com/XMIUM-XYZ",
 
-    rh:
-        "https://xmium.xyz",
-
     argus:
         "https://argus.world/token/0x",
 
@@ -180,9 +177,6 @@ function initXmium() {
     const githubLink =
         document.getElementById("githubLink");
 
-    const rhLink =
-        document.getElementById("rhLink");
-
     const argusmLink =
         document.getElementById("argusLink");
 
@@ -230,13 +224,6 @@ function initXmium() {
 
     }
 
-
-    if (rhLink) {
-
-        rhLink.href =
-            LINKS.rh;
-
-    }
 
 
     if (argusLink) {
