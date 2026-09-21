@@ -34,7 +34,7 @@ const LINKS = {
         "https://argus.world/token/0x",
 
     uniswap:
-        "https://app.uniswap.org/swap?outputCurrency=0x&chain=robinhood"
+        "https://app.uniswap.org/swap?chain=arc&outputCurrency=0x"
 
 };
 
