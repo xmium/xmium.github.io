@@ -177,7 +177,7 @@ function initXmium() {
     const githubLink =
         document.getElementById("githubLink");
 
-    const argusmLink =
+    const argusLink =
         document.getElementById("argusLink");
 
     const uniswapLink =
