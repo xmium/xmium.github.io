@@ -9,7 +9,7 @@
    ========================================================= */
 
 const CONTRACT_ADDRESS =
-    "0x";
+    "0x71E03d83B9B24ddA8A7Af006F9ccFf98CfFAb8A3";
 
 
 /* =========================================================
@@ -31,10 +31,10 @@ const LINKS = {
         "https://xmium.xyz",
 
     argus:
-        "https://argus.world/token/0x",
+        "https://argus.world/token/0x71E03d83B9B24ddA8A7Af006F9ccFf98CfFAb8A3",
 
     uniswap:
-        "https://app.uniswap.org/swap?outputCurrency=0x&chain=arc"
+        "https://app.uniswap.org/swap?outputCurrency=0x71E03d83B9B24ddA8A7Af006F9ccFf98CfFAb8A3&chain=arc"
 
 };
 
