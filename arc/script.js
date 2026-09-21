@@ -9,7 +9,7 @@
    ========================================================= */
 
 const CONTRACT_ADDRESS =
-    "0x8edfeee0396c0CB7869d260bC237F6f25233Aac2";
+    "0x";
 
 
 /* =========================================================
@@ -31,10 +31,10 @@ const LINKS = {
         "https://xmium.xyz",
 
     ponsfam:
-        "https://www.ponsfamily.com/launchpad/0x8edfeee0396c0CB7869d260bC237F6f25233Aac2",
+        "https://www.ponsfamily.com/launchpad/0x",
 
     uniswap:
-        "https://app.uniswap.org/swap?outputCurrency=0x8edfeee0396c0CB7869d260bC237F6f25233Aac2&chain=robinhood"
+        "https://app.uniswap.org/swap?outputCurrency=0x&chain=robinhood"
 
 };
 
