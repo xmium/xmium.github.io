@@ -27,11 +27,14 @@ const LINKS = {
     github:
         "https://github.com/XMIUM-XYZ",
 
+    rh:
+        "https://xmium.xyz",
+
     argus:
         "https://argus.world/token/0x",
 
     uniswap:
-        "https://app.uniswap.org/swap?chain=arc&outputCurrency=0x"
+        "https://app.uniswap.org/swap?outputCurrency=0x&chain=arc"
 
 };
 
@@ -177,6 +180,9 @@ function initXmium() {
     const githubLink =
         document.getElementById("githubLink");
 
+    const rhLink =
+        document.getElementById("rhLink");
+
     const argusLink =
         document.getElementById("argusLink");
 
@@ -224,6 +230,13 @@ function initXmium() {
 
     }
 
+
+    if (rhLink) {
+
+        rhLink.href =
+            LINKS.rh;
+
+    }
 
 
     if (argusLink) {
