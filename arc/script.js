@@ -30,8 +30,8 @@ const LINKS = {
     rh:
         "https://xmium.xyz",
 
-    ponsfam:
-        "https://www.ponsfamily.com/launchpad/0x",
+    argus:
+        "https://argus.world/token/0x",
 
     uniswap:
         "https://app.uniswap.org/swap?outputCurrency=0x&chain=robinhood"
@@ -183,8 +183,8 @@ function initXmium() {
     const rhLink =
         document.getElementById("rhLink");
 
-    const ponsfamLink =
-        document.getElementById("ponsfamLink");
+    const argusmLink =
+        document.getElementById("argusLink");
 
     const uniswapLink =
         document.getElementById("uniswapLink");
@@ -239,10 +239,10 @@ function initXmium() {
     }
 
 
-    if (ponsfamLink) {
+    if (argusLink) {
 
-        ponsfamLink.href =
-            LINKS.ponsfam;
+        argusLink.href =
+            LINKS.argus;
 
     }
 
