@@ -34,7 +34,7 @@ const LINKS = {
         "https://www.ponsfamily.com/launchpad/0x8edfeee0396c0CB7869d260bC237F6f25233Aac2",
 
     uniswap:
-        "https://app.uniswap.org/swap?outputCurrency=0x8edfeee0396c0CB7869d260bC237F6f25233Aac2&chain=robinhood"
+        "https://app.uniswap.org/swap?chain=robinhood&outputCurrency=0x8edfeee0396c0CB7869d260bC237F6f25233Aac2"
 
 };
 
